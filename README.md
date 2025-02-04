@@ -10,6 +10,6 @@ Test project
 
 Code markdown `````. 
 
-```
+```html
 <p>Test project </p>
 ```
